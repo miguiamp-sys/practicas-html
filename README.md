@@ -1,2 +1,2 @@
-# practicas-html
+# Practicas-html
 Esto es un repositorio nuevo
